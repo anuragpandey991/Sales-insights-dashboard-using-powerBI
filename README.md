@@ -2,9 +2,7 @@
 Sales Analysis Power BI Project
 
 ## Project Description
-- Integrated and cleaned data from 4 sources with 8,000+ orders, enabling year-over-year sales, profit, and margin analysis.
-– Created interactive PowerBI visualizations (line, area, bar, pie charts) for product, customer, and regional insights.
-– Implemented slicers for dynamic filtering, improving user experience and enhancing data-driven decision-making.
+- Integrated and cleaned data from 4 sources with 8,000+ orders, enabling year-over-year sales, profit, and margin analysis | Created interactive PowerBI visualizations (line, area, bar, pie charts) for product, customer, and regional insights | Implemented slicers for dynamic filtering, improving user experience and enhancing data-driven decision-making.
 
 ## Overview
 This Power BI project aims to analyze sales data and provide insights into various aspects of sales performance. The project involves cleaning and integrating data from multiple sources to create a comprehensive analysis dashboard. Users can interact with the dashboard using slicers to filter data based on different criteria such as year, city, product name, and channels.
